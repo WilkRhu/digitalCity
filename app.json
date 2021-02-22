@@ -1,12 +1,4 @@
 {
-  "name": "digitalCity",
-  "displayName": "digitalCity",
-  "expo": {
-    "name": "digitalCity",
-    "slug": "digitalCity",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  }
+  "name": "appCity",
+  "displayName": "appCity"
 }
